@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\san\source\repos\p2p下载器\p2p下载器\util.hpp(59): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+  P2P下载器.vcxproj -> C:\Users\san\source\repos\P2P下载器\Debug\P2P下载器.exe
