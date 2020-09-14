@@ -30,3 +30,29 @@ public:
 		}
 	}
 };
+/*
+class Solution {
+public:
+    /**
+     * 
+     * @param n int整型 
+     * @param m int整型 
+     * @return int整型
+     */
+    /*int ysf(int n, int m) {
+        // write code here
+        queue<int>q;
+        for(int i = 1;i <= n;++i)
+            q.push(i);
+        while(q.size() != 1)
+        {
+            for(int i = 1;i < m;i++)
+            {
+                q.push(q.front());
+                q.pop();
+            }
+            q.pop();
+        }
+        return q.front();
+    }
+};*/
